@@ -1,0 +1,31 @@
+<!-- component with interfaces added to give it ability to be used for Record home pages with inbuilt recordId attribute -->
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+
+    <!-- attribute to store the contact record returned by Lightning Data Service -->
+    <aura:attribute name="con" type="Contact"/>
+    
+    <!-- Lightning Data Service usage in EDIT mode to get the Contact record -->
+    <force:recordData aura:id="DataService"
+                        recordId="{!v.recordId}"
+                        mode="EDIT"
+                        layoutType="FULL"
+                        targetFields="{!v.con}" />
+    
+    <!-- UI Base component using SLDS for a Container of the Contact fields -->
+    <lightning:card title="Edit Contact quickly">
+        
+        <!-- Input base component for editing fields -->
+        <p class="slds-p-horizontal--small">
+                <lightning:input type="text" label="First Name" name="first" value="{!v.con.FirstName}" />
+                <lightning:input type="text" label="Last Name" name="last" value="{!v.con.LastName}" />
+                <lightning:input type="email" label="Email" name="email" value="{!v.con.Email}" />
+                <lightning:input type="tel" label="Phone" name="phone" value="{!v.con.Phone}" />
+        </p>
+        <!-- Button base component added to the container through lightning:card "actions" attribute -->
+        <aura:set attribute="actions">
+            <lightning:button label="Save" onclick="{!c.handleSave}" />
+        </aura:set>
+        
+    </lightning:card>
+
+</aura:component>

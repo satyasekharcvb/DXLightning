@@ -1,0 +1,182 @@
+[
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1504242031000,
+            "changeTime": 1504242031000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1504242031000,
+            "changeTime": 1504242031000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1504242031000,
+            "changeTime": 1504242031000,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1504242392000,
+            "changeTime": 1504242392000,
+            "contentHash": "bb5e9a367276d9ed486a41f39ea4853de1aaf7df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1504242392000,
+            "changeTime": 1504242392000,
+            "contentHash": "6e719e5c800108fbaffbf2066f493664a2ba8f28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContact.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContact.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1617,
+            "modifiedTime": 1504242458000,
+            "changeTime": 1504242458000,
+            "contentHash": "37b6b5fbcba5f74d020026cf0f93cfc6f381ac7b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContact.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 244,
+            "modifiedTime": 1504242392000,
+            "changeTime": 1504242392000,
+            "contentHash": "8aa185141635929bfe1cb48799647c1eb1f1a0d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContact.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContact.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1504242392000,
+            "changeTime": 1504242392000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContactController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContactController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 245,
+            "modifiedTime": 1504242536000,
+            "changeTime": 1504242536000,
+            "contentHash": "a87cc0780f27e1b47ad87dec4818177489337cbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContactHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContactHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1504242392000,
+            "changeTime": 1504242392000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContactRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning/force-app/main/default/aura/quickContact/quickContactRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1504242392000,
+            "changeTime": 1504242392000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning",
+        {
+            "state": "n",
+            "sourcePath": "/Users/ssekhar/myFolders/working/Shashank/salesforceDX/DXLightning",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1504242541000,
+            "changeTime": 1504242541000,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
